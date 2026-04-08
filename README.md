@@ -74,7 +74,7 @@ Here are the details of the challenge:
    * Go back via your original path. In this case, the TA crossing and surveillance light are ***bidirectional*** -- you will need to pass them again.
    * Go around the map (through the long hallway and vending machines). You will not need to pass the TA crossing and surveillance light again, but this will likely require more robust localization!
 
-<img src="media/Final Challenge Shrinkray Heist Map.png" width="400"/>
+<img src="media/final_challenge_bikini_bottom.png" width="500"/>
 
 ### Scoring:
 
@@ -100,7 +100,7 @@ The formula for calculating score and penalty values may change for fairness (pe
 
 ### Tips
 
-Mrs. Puff's Boating Test is meant to be open-ended. You should make use of techniques you believe will best solve the problem.
+Mrs. Puff's Boating School is meant to be open-ended. You should make use of techniques you believe will best solve the problem.
 
 Here are some things you may consider in developing your approach:
 
