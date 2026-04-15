@@ -26,6 +26,8 @@ This semester, you've learned how to implement real-time robotics software on a 
 
 Now, your team will apply everything you've learned to successfully pass your boating test and race your snail (i.e your racecar)!
 
+**Note regarding teamwork:** The final challenge will also stress all of your teamwork processes. By 6pm on Wednesday, April 15th, you must have updated your team charter with a plan for the final challenge, including milestones, timelines and individual responsibilites, and have emailed to your team’s TAs and instructors the updated charter. You will need to use the time in lab on Wednesday to discuss and document the revised charter. 
+
 <img src="media/patty_wagon.png" width="500"/>
 
 ### Spongebob…!
@@ -192,9 +194,13 @@ When grading the Technical approach and Experimental evaluation portions of your
 
 ## General Notes
 
+### Working as a team 
+
+The final challenge is the most open-ended assignment in RSS, and as we said at the top of this document, it will also stress all of your teamwork processes. **By 6pm on Wednesday, April 15th, you must have updated your team charter with a plan for the final challenge, including milestones, timelines and individual responsibilites, and have emailed to your team’s TAs and instructors the updated charter.** You will need to use the time in lab on Wednesday to discuss and document the revised charter. Make sure to discuss what other coursework each of you has, and how you will plan around that other work. Discuss having back up plans in case someone runs late in developing a component, or someone gets sick. 
+  
 ### Structuring your code
 
-The final challenge is the most open-ended assignment in RSS, and comes with minimal starter code. We suggest referring to previous labs for good practices in structuring your solution:
+To repeat: the final challenge is the most open-ended assignment in RSS, and comes with minimal starter code. We suggest referring to previous labs for good practices in structuring your solution:
 - Start by defining what nodes you will create, what they will subscribe to, and what they will publish. From this plan, write skeleton files, then split up the work of populating them with working code.
 - Make useful launch and parameter files. Refer to previous labs for syntax.
 
